@@ -23,6 +23,3 @@
   - name: Create dynamic inventory
     include_role:
        name: osp_create_inventry
-  - name: del_insta_test
-    include_role:
-       name: osp_delete_instance
