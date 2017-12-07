@@ -1,0 +1,4 @@
+server_name: db
+group: appdbs
+deployment: dev
+security_group: db_servers

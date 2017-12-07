@@ -1,0 +1,4 @@
+server_name: web1
+group: webservers
+deployment: dev
+security_group: ICMP_and_SSH

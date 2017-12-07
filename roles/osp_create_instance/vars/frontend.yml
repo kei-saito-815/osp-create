@@ -1,0 +1,4 @@
+server_name: frontend
+group: frontends
+deployment: dev
+security_group: frontend_servers

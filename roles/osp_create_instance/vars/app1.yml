@@ -1,0 +1,4 @@
+server_name: app1
+group: apps
+deployment: dev
+security_group: app_servers
